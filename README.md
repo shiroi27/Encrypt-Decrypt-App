@@ -59,9 +59,9 @@ python Encrypt_Decrypt.py
 
 I’m sharing my #100DaysOfCode journey with real-world Python projects.
 Let’s connect and grow together! 🌱✨
-	•	📸 Instagram: @shiroi_27
-	•	🐦 Twitter: @shiroi_27
-	•	💼 GitHub: @shiroi27
+            - 📸 [Instagram: @_shiroi_27_](https://instagram.com/_shiroi_27_)
+            - 🐦 [Twitter: @_shiroi_27_](https://twitter.com/_shiroi_27_)
+            - 💼 [LinkedIn: @shiroi27](https://linkedin.com/in/shiroi27)
 
 ⸻
 
