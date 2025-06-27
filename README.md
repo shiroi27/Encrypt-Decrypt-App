@@ -47,6 +47,7 @@ python Encrypt_Decrypt.py
 ⸻
 
 🧠 What I Learned
+
 	•	Creating structured UI using .place()
 	•	Managing layout between multiple frames and elements
 	•	Implementing basic cryptography using Python’s base64
