@@ -1,5 +1,5 @@
 ## 📸 Preview
-![Encrypt Decrypt App Screenshot]<img width="953" alt="Screenshot 2025-06-27 at 1 55 05 PM" src="https://github.com/user-attachments/assets/3d5b978a-f264-464b-bdfb-94cc193cbddf" />
+![Encrypt Decrypt App Screenshot](https://github.com/user-attachments/assets/3d5b978a-f264-464b-bdfb-94cc193cbddf)
 
 
 ---
