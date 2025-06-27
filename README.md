@@ -32,14 +32,15 @@ Simply input your text, enter a secret key, and click Encrypt or Decrypt — it'
 ## 🚀 How to Run
 
 1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/shiroi27/Encrypt-Decrypt-App.git
-   cd Encrypt-Decrypt-App
-   ```
-2.	Run the App
-   ```bash
-   python Encrypt_Decrypt.py
-   ``
+```bash
+git clone https://github.com/shiroi27/Encrypt-Decrypt-App.git
+cd Encrypt-Decrypt-App
+```
+2. Run the App
+
+```bash
+python Encrypt_Decrypt.py
+```
 
 ✅ Make sure you have Python 3.11+ installed and Tkinter is configured.
 
